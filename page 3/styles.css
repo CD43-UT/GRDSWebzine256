@@ -1,0 +1,28 @@
+*{
+	Margin:10px;
+}
+body{
+	background-color:rgb(35, 35, 35);
+	color:white;
+}
+.heading{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+.subheading{
+	line-height: 30px;
+}
+.space{
+	height:15px;
+}
+.text{
+	display:flex;
+	flex-direction:column;
+	width:80%;
+	border:2px solid white;
+	font-family:'Courier New', Courier, monospace;
+	font-size:17px;
+	line-height:25px;
+	text-indent:15px;
+	padding:5px;
+}
