@@ -380,27 +380,27 @@ h1{
     height:30%;
   }
     .button-link1 img{
-    width:56.25px;
-    height:77.25px;
+    width:50px;
+    height:71px;
   }
   .button-link2 img{
-    width:56.25px;
-    height:77.25px;
+    width:50px;
+    height:71px;
   }
   .button-link3 img{
-    width:56.25px;
-    height:77.25px;
+    width:50px;
+    height:71px;
   }
   .button-link4{
     margin-left:10px;
   }
   .button-link4 img{
-    width:56.25px;
-    height:77.25px;
+    width:50px;
+    height:71px;
   }
   .button-link5 img{
-    width:56.25px;
-    height:77.25px;
+    width:50px;
+    height:71px;
   }
 }
 @media screen and (max-width: 320px){
