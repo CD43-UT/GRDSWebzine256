@@ -303,6 +303,9 @@ h1{
   .top{
         height:15%;
     }
+  .container{
+    height:80vh;
+  }
  .title{
     font-size:10px;
   }
