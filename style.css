@@ -333,6 +333,41 @@ h1{
     height:101px;
   }
 }
+@media screen and (max-width: 375px){
+    .top{
+    height:15%;
+    }
+
+ .title{
+    font-size:18px;
+  }
+  .bottom{
+    height:80%;
+  }
+  .button-link1 img{
+    width:135px;
+    height:175px;
+  }
+  .button-link2 img{
+    width:135px;
+    height:175px;
+  }
+  .button-link3 img{
+    width:135px;
+    height:175px;
+  }
+  .button-link4{
+    margin-left:20px;
+  }
+  .button-link4 img{
+    width:135px;
+    height:175px;
+  }
+  .button-link5 img{
+    width:135px;
+    height:175px;
+  }
+}
 @media screen and (max-width: 320px){
     .top{
         height:15%;
