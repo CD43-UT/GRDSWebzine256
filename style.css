@@ -353,27 +353,30 @@ h3{
     height:30%;
   }
     .button-link1 img{
-    width:56.25px;
-    height:77.25px;
+    width:57.25px;
+    height:78.25px;
   }
   .button-link2 img{
-    width:56.25px;
-    height:77.25px;
+    width:57.25px;
+    height:78.25px;
   }
   .button-link3 img{
-    width:56.25px;
-    height:77.25px;
+    width:57.25px;
+    height:78.25px;
   }
   .button-link4{
-    margin-left:10px;
+    margin-left:40px;
   }
   .button-link4 img{
-    width:56.25px;
-    height:77.25px;
+    width:57.25px;
+    height:78.25px;
   }
   .button-link5 img{
-    width:56.25px;
-    height:77.25px;
+    width:57.25px;
+    height:78.25px;
+  }
+  .under{
+    font-size: 8px;
   }
 }
 @media screen and (max-width: 375px){
