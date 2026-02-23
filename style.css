@@ -12,6 +12,7 @@ body{
 h1{
 	font-family:Cinzel;
   opacity:.6;
+  font-size: 60px;
 }
 .container{
 	display:flex;
@@ -204,8 +205,9 @@ h3{
 
 
 @media screen and (max-width: 1024px){
-  .title{
-    font-size:25px;
+
+  h1{
+    font-size: 40px;
   }
    .bottom{
     height:85%;
@@ -234,6 +236,9 @@ h3{
     width:185px;
     height:240px;
   }
+  .under{
+    font-size:10px;
+  }
 }
 
 @media screen and (max-width: 768px){
@@ -241,8 +246,8 @@ h3{
     height:20%;
     }
 
- .title{
-    font-size:18px;
+  h1{
+    font-size: 30px;
   }
   .bottom{
     height:60%;
@@ -272,9 +277,9 @@ h3{
   }
 }
 @media screen and (max-width: 600px){
- .title{
-    font-size:14px;
-  }    
+  h1{
+    font-size: 20px;
+  }
    .bottom{
     height:45%;
   }
@@ -306,13 +311,13 @@ h3{
   .container{
     height:80vh;
   }
- .title{
-    font-size:10px;
+   h1{
+    font-size: 15px;
   }
   .bottom{
     height:60%;
   }
-    .button-link1 img{
+  .button-link1 img{
     width:80px;
     height:101px;
   }
@@ -341,8 +346,8 @@ h3{
         height:15%;
     }
 
- .title{
-    font-size:8px;
+  h1{
+    font-size: 15px;
   }
   .bottom{
     height:30%;
@@ -376,8 +381,8 @@ h3{
         height:15%;
     }
 
- .title{
-    font-size:8px;
+  h1{
+    font-size: 13px;
   }
   .bottom{
     height:35%;
@@ -411,8 +416,8 @@ h3{
         height:15%;
     }
 
- .title{
-    font-size:8px;
+  h1{
+    font-size: 10px;
   }
   .bottom{
     height:35%;
