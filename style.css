@@ -353,27 +353,27 @@ h3{
     height:30%;
   }
     .button-link1 img{
-    width:57.25px;
-    height:78.25px;
+    width:65px;
+    height:86px;
   }
   .button-link2 img{
-    width:57.25px;
-    height:78.25px;
+    width:65px;
+    height:86px;
   }
   .button-link3 img{
-    width:57.25px;
-    height:78.25px;
+    width:65px;
+    height:86px;
   }
   .button-link4{
-    margin-left:40px;
+    margin-left:10px;
   }
   .button-link4 img{
-    width:57.25px;
-    height:78.25px;
+    width:65px;
+    height:86px;
   }
   .button-link5 img{
-    width:57.25px;
-    height:78.25px;
+    width:65px;
+    height:86px;
   }
   .under{
     font-size: 8px;
@@ -391,27 +391,27 @@ h3{
     height:35%;
   }
     .button-link1 img{
-    width:50px;
-    height:71px;
+    width:55px;
+    height:76px;
   }
   .button-link2 img{
-    width:50px;
-    height:71px;
+    width:55px;
+    height:76px;
   }
   .button-link3 img{
-    width:50px;
-    height:71px;
+    width:55px;
+    height:76px;
   }
   .button-link4{
     margin-left:10px;
   }
   .button-link4 img{
-    width:50px;
-    height:71px;
+    width:55px;
+    height:76px;
   }
   .button-link5 img{
-    width:50px;
-    height:71px;
+    width:55px;
+    height:76px;
   }
 }
 @media screen and (max-width: 320px){
