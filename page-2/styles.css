@@ -34,6 +34,11 @@ body{
 	background-image:linear-gradient(to right,rgb(25, 25, 25) 5%,rgb(35, 35, 35) 10%,rgb(35, 35, 35) 90%,rgb(25, 25, 25)95%);
     line-height:40px;
 }
+.text{
+	font-family:'Courier New', Courier, monospace;
+	font-size:20px;
+}
+
 .links{
 	bottom:1%;
 	display:flex;
@@ -51,3 +56,168 @@ body{
     opacity: 100%;
     border-color:rgba(255, 255, 255, 1) ;
 }
+
+@media screen and (max-width: 1024px){
+.header{
+	font-size: 20px;
+	line-height:100px;
+}
+.text{
+	font-size:16px;
+}
+.container2{
+    height:40vh;
+    width:80%;
+    line-height:40px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+}
+@media screen and (max-width: 768px){
+.header{
+	font-size: 20px;
+	line-height:100px;
+}
+.text{
+	font-size:14px;
+}
+.container2{
+    height:40vh;
+    width:90%;
+    line-height:40px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+}
+@media screen and (max-width: 600px){
+.header{
+	font-size: 18px;
+	line-height:100px;
+}
+.text{
+	font-size:10px;
+}
+.container2{
+    height:30vh;
+    width:90%;
+    line-height:30px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+.button-link1 img {
+    /* Space between image and text */
+    margin:50px 0px 40px 0px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    opacity:75%;
+}
+}
+@media screen and (max-width: 480px){
+.header{
+	font-size: 16px;
+	line-height:100px;
+}
+.text{
+	font-size:9px;
+}
+.container2{
+    height:30vh;
+    width:100%;
+    line-height:25px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+.button-link1 img {
+    /* Space between image and text */
+    margin:50px 0px 40px 0px;
+    width: 45px; /* Adjust size as needed */
+    height: 45px; /* Adjust size as needed */
+    opacity:75%;
+}
+}
+@media screen and (max-width: 425px){
+.header{
+	font-size: 14px;
+	line-height:100px;
+}
+.text{
+	font-size:8px;
+}
+.container2{
+    height:30vh;
+    width:100%;
+    line-height:25px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+.button-link1 img {
+    /* Space between image and text */
+    margin:50px 0px 40px 0px;
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+    opacity:75%;
+}
+}
+@media screen and (max-width: 372px){
+.header{
+	font-size: 11px;
+	line-height:80px;
+}
+.text{
+	font-size:7px;
+}
+.container2{
+    height:25vh;
+    width:100%;
+    line-height:25px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+.button-link1 img {
+    /* Space between image and text */
+    margin:50px 0px 40px 0px;
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+    opacity:75%;
+}
+}
+@media screen and (max-width: 320px){
+.header{
+	font-size: 9px;
+	line-height:70px;
+}
+.text{
+	font-size:6px;
+}
+.container2{
+    height:25vh;
+    width:100%;
+    line-height:25px;
+}
+.links{
+	bottom:1%;
+	width:45%;
+}
+.button-link1 img {
+    /* Space between image and text */
+    margin:50px 0px 40px 0px;
+    width: 35px; /* Adjust size as needed */
+    height: 35px; /* Adjust size as needed */
+    opacity:75%;
+}
+}
+
+
+

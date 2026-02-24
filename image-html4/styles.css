@@ -90,3 +90,199 @@ body{
 	animation:dark 3s ease-in 0s;
 }
 
+@media screen and (max-width: 1024px){
+.image{
+	width:100%;
+	height:100%;
+}
+.image img{
+	width:90%;
+	height:100%;
+}
+.links{
+	bottom:1%;
+	width:25%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 768px){
+.image{
+	background-image:none;
+	width:100%;
+	height:90%;
+}
+.image img{
+	width:100%;
+	height:90%;
+}
+.links{
+	bottom:15%;
+	width:35%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 600px){
+.image{
+	background-image:none;
+	width:100%;
+	height:80%;
+}
+.image img{
+	width:100%;
+	height:80%;
+}
+.links{
+	bottom:25%;
+	width:40%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 480px){
+.image{
+	background-image:none;
+	width:100%;
+	height:70%;
+}
+.image img{
+	width:100%;
+	height:70%;
+}
+.links{
+	bottom:35%;
+	width:40%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 425px){
+.image{
+	background-image:none;
+	width:100%;
+	height:65%;
+}
+.image img{
+	width:100%;
+	height:65%;
+}
+.links{
+	bottom:40%;
+	width:40%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 372px){
+.image{
+	background-image:none;
+	width:100%;
+	height:60%;
+}
+.image img{
+	width:100%;
+	height:60%;
+}
+.links{
+	bottom:45%;
+	width:40%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+}
+}
+@media screen and (max-width: 320px){
+.image{
+	background-image:none;
+	width:100%;
+	height:55%;
+}
+.image img{
+	width:100%;
+	height:55%;
+}
+.links{
+	bottom:45%;
+	width:50%;
+}
+
+.button-link1 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 15px; /* Adjust size as needed */
+    height: 15px; /* Adjust size as needed */
+}
+.button-link2 img {
+    /* Space between image and text */
+    margin:20px 20px 20px 20px;
+    width: 15px; /* Adjust size as needed */
+    height: 15px; /* Adjust size as needed */
+}
+}
+
